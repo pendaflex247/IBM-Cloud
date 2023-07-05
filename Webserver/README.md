@@ -1,4 +1,4 @@
-# IBM Cloud VPC WIth SUBNETS project 
+# IBM Cloud VPC With SUBNETS project 
 Objective: Create and Configure Virtual Private Cloud (VPC)  with 2 subnets.
 
     0. Create resource group
